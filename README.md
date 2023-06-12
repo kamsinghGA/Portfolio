@@ -47,7 +47,7 @@ To run this portfolio website locally on your machine, follow these steps:
 
 ## Live Site
 
-You can visit the live site at [Kam's Portfolio](kamsinghGA.github.io).
+You can visit the live site at: kamsinghGA.github.io
 
 ## Unsolved Problems
 
